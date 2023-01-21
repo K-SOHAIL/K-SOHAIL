@@ -13,9 +13,15 @@ Basic Communication, Presentation, and Interpersonal skills with excellent probl
 Here are some ideas to get you started:
 
 🔭 I’m currently Looking on a Job as a Data Analyst.
+
 🌱 I’m currently learning about Data Analytics tools & techniques and how to write a .
+
 👯 I’m looking to Work on a teem where we solve Data Analytics & Business Development Question
+
 🤔 I’m looking for help with contributions 'ama_sessions' from Microsoft.
+
 💬 Ask me about data Analytics, SQL, Python, Power Bi, Tableau, Advanced Excel.
+
 📫 How to reach me: kamransohail2004@gmail.com
+
 😄 Pronouns: He/Him
